@@ -23,7 +23,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['254743706010', '254700143167']
+global.mods = ['255749996466', '254700143167']
 global.prems = ['254743706010', '254700143167', '254755267907']
 global.allowed = ['254743706010', '254700143167']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -72,7 +72,7 @@ global.APIKeys = {
 global.botname = process.env.BOTNAME
 global.premium = 'true'
 global.packname = 'silva'
-global.author = 'silva'
+global.author = 'assistant'
 global.menuvid = ''
 global.igfg = ''
 global.dygp = ''
@@ -82,7 +82,7 @@ global.fgpyp = 'https://youtube.com/@silvaedits254'
 global.fglog = ''
 global.thumb = fs.readFileSync('./jusorts/sylivanus.jpg')
 
-global.wait = '*⌛ _SILVA MD ANALYSING..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _ASSISTANT MD ANALYSING..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'

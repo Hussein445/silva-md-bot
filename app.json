@@ -1,5 +1,5 @@
 {
-  "name": "SILVA AI",
+  "name": "ASSISTANT AI",
   "description": " with great power comes with great responsibilities. follow the deployment process below.",
   "keywords": [
     "whatsapp bot"
@@ -10,12 +10,12 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "254700143167"
+      "value": "255749996466"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "SILVA-MD-BOT©®"
+      "value": "ASSISTANT-MD-BOT©®"
     },
     "MODE": {
       "description": "mode public or private",
